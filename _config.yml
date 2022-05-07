@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Bruno Esposito"
 title_separator          : "-"
 name                     : &name "Bruno Esposito"
-description              : &description "personal description"
+description              : &description "Economics PhD student at UBC"
 url                      : https://bnesposito.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bnesposito/bnesposito.github.io"
@@ -57,12 +57,12 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter bnesposito
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : profile.jpg # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
