@@ -20,6 +20,6 @@ author_profile: true
 ## Work in Progress
 {% include base_path %}
 
-{% for post in site.workpapers reversed %}
+{% for post in site.workpaper reversed %}
   {% include archive-single.html %}
 {% endfor %}
