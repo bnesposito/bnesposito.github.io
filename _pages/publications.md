@@ -5,21 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 ## Published Papers
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+"The Effect of Bonuses on Teacher Retention and Student Learning in Rural Schools: A Story of Spillovers" (with [Juan F. Castro](https://sites.google.com/view/juanfcastro/)).
+_Education Finance and Policy_. Forthcoming.
+Presented at IAAE 2018 (by co-author).
 
 ## Work in Progress
-{% include base_path %}
+"Adaptive Experiments for Policy Choice: Phone Calls for Home Reading in Kenya" (with [Anja Sautmann](https://sites.google.com/site/anjasautmann/home)).
+Presented at NEUDC 2021 (by co-author).
 
-{% for post in site.workpaper reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+ 
