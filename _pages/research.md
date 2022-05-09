@@ -12,7 +12,7 @@ author_profile: true
 Presented at IAAE 2018 (by co-author).
 
 ## Work in Progress
-"Adaptive Experiments for Policy Choice: Phone Calls for Home Reading in Kenya" (with [Anja Sautmann](https://sites.google.com/site/anjasautmann/home)). \ 
+"Adaptive Experiments for Policy Choice: Phone Calls for Home Reading in Kenya" (with [Anja Sautmann](https://sites.google.com/site/anjasautmann/home)). \
 Presented at NEUDC 2021 (by co-author).
 
 
