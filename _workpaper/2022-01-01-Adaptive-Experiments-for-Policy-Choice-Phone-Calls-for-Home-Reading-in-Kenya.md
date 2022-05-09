@@ -2,7 +2,7 @@
 title: "Adaptive Experiments for Policy Choice: Phone Calls for Home Reading in Kenya"
 collection: workpaper
 permalink: /workpaper/2022-Adaptive-Experiments-for-Policy-Choice-Phone-Calls-for-Home-Reading-in Kenya
-date: 2022
+date: 2022-01-01
 venue: ''
 paperurl: ''
 citation: ''

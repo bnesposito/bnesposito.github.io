@@ -2,7 +2,7 @@
 title: "Paper Title Number 1"
 collection: publications
 permalink: /publication/2021-The-Effect-of-Bonuses-on-Teacher-Retention-and-Student-Learning-in-Rural-Schools-A-Story-of-Spillovers
-date: 2021
+date: 2021-01-01
 venue: 'Education Finance and Policy'
 link: https://doi.org/10.1162/edfp_a_00348
 citation: 'Juan F. Castro, Bruno Esposito; The Effect of Bonuses on Teacher Retention and Student Learning in Rural Schools: A Story of Spillovers. Education Finance and Policy 2021; doi: https://doi.org/10.1162/edfp_a_00348.'
