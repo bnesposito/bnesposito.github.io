@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am an Econ PhD student at the University of British Columbia. I hold a MSc in Statistics from KU Leuven and a BA in Economics from Universidad del Pacifico.  I am interested in econometrics, bayesian statistics and their applications in labour economics.
+I am an Econ PhD student at the University of British Columbia. I am interested in labour economics and econometrics.
 
 You can download my CV [here](/files/Esposito_Bruno_CV.pdf).
 
