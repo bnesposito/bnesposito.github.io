@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Econ PhD student at the University of British Columbia. I am interested in labour economics and econometrics.
+I am an Econ PhD student at the University of British Columbia. I am interested in labor economics and econometrics.
 
 You can download my CV [here](/files/Esposito_Bruno_CV.pdf).
 
